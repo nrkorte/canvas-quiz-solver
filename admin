@@ -1,0 +1,7 @@
+#!/bin/bash
+
+python3 main.py nrkorte Thermometer2001! "https://colostate.instructure.com/courses/156347/quizzes/400283"
+
+echo "Initializing..."
+
+# https://colostate.instructure.com/courses/156347/quizzes/400283
